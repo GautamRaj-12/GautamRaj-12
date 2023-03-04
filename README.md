@@ -26,16 +26,15 @@ Welcome to my Github profile, I'm Gautam Raj currently pursuing Master's of Comp
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) 
 
 
-#### Resume
+### Resume
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
 
 
-#### Profile Visits 
+### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GautamRaj-12.GautamRaj-12)
 
-#### Github Stats
+### Github Stats
 
 [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GautamRaj-12)](https://github.com/anuraghazra/github-readme-stats)
 
