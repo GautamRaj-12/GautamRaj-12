@@ -27,7 +27,7 @@ Welcome to my Github profile, I'm Gautam Raj currently pursuing Master's of Comp
 
 
 ### Resume
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/GautamRaj-12/GautamRaj-12/blob/master/resume-github.pdf)
 
 
 ### Profile Visits 
