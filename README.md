@@ -6,14 +6,11 @@ Welcome to my Github profile, I'm Gautam Raj currently pursuing Master's of Comp
 
 [![Twitter Badge](https://img.shields.io/badge/-@grajdev12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/grajdev12)  [![Linkedin Badge](https://img.shields.io/badge/-grajdev12-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grajdev12/) [![Mail Badge](https://img.shields.io/badge/-gautamraj996-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gautamraj996@gmail.com)
 
-<!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🔭 I’m currently looking to finish my master's degree
+- 🤔 I am currently learning Full Stack Web Development and I’m looking for internship opportunities.
+- 📫 How to reach me: gautamraj996@gmail.com
+  
 
 #### Top Technologies
 
