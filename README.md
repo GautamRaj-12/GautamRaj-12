@@ -28,11 +28,7 @@ Welcome to my Github profile, I'm Gautam Raj currently pursuing Master's of Comp
 
 ### Resume
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1kd-1ugITuomzkwyVXVzCw1xxRn8bSote/view?usp=sharing)
-
-
-### Profile Visits 
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=GautamRaj-12.GautamRaj-12)
+- 
 
 ### Github Stats
 
