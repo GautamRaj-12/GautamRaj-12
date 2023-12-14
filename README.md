@@ -31,4 +31,4 @@ Welcome to my Github profile, I'm Gautam Raj currently pursuing Master's of Comp
 
 ### Github Stats
 
-[![Gautam's GitHub stats](https://gr-github-readme-stats.vercel.app/api?username=GautamRaj-12&show=prs_merged,prs_merged_percentage,&show_icons=true,&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=GautamRaj-12&theme=onedark&hide_border=false)
+[![Gautam's GitHub stats](https://gr-github-readme-stats.vercel.app/api?username=GautamRaj-12&show=prs_merged,&show_icons=true,&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=GautamRaj-12&theme=onedark&hide_border=false)
